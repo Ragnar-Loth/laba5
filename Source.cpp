@@ -3,7 +3,7 @@ using namespace std;
 
 class Matrix {
 private:
-	int mtx[5];
+	int matrix[5];
 public:
 	void InputElement(int a) {
 		cin >> mtx[a];
